@@ -18,12 +18,12 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
 
 ### 📝 Blog Posts
 
-- [How to Create a Pareto Chart Using Plotly](https://dev.to/sc0v0ne/how-to-create-a-pareto-chart-jha)
-- [Create container for development data science and container registry GitLab](https://dev.to/sc0v0ne/create-container-for-development-data-science-3no)
-- [K-Means Recommend Movies and Tv Shows🍿](https://dev.to/sc0v0ne/k-means-recommend-movies-and-tv-shows-156m)
-- [No Pain No Gain to Learn Python 🤯☢️😱]([https://dev.to/sc0v0ne/k-means-recommend-movies-and-tv-shows-156m](https://dev.to/sc0v0ne/no-excuses-to-start-working-with-python-cli))
-- [Applying Tests to Jupyter Notebook Functions and Refactoring Old Code](https://dev.to/sc0v0ne/applying-tests-to-jupyter-notebook-functions-and-refactoring-old-code-p76)
-- [Blueflix 🍿🎥 - Idea, Build, Deploy](https://dev.to/sc0v0ne/blueflix-idea-build-deploy-ji5)
+- **[How to Create a Pareto Chart Using Plotly](https://dev.to/sc0v0ne/how-to-create-a-pareto-chart-jha)**
+- **[Create container for development data science and container registry GitLab](https://dev.to/sc0v0ne/create-container-for-development-data-science-3no)**
+- **[K-Means Recommend Movies and Tv Shows🍿](https://dev.to/sc0v0ne/k-means-recommend-movies-and-tv-shows-156m)**
+- **[No Pain No Gain to Learn Python 🤯☢️😱](https://dev.to/sc0v0ne/no-excuses-to-start-working-with-python-cli)**
+- **[Applying Tests to Jupyter Notebook Functions and Refactoring Old Code](https://dev.to/sc0v0ne/applying-tests-to-jupyter-notebook-functions-and-refactoring-old-code-p76)**
+- **[Blueflix 🍿🎥 - Idea, Build, Deploy](https://dev.to/sc0v0ne/blueflix-idea-build-deploy-ji5)**
 
 ### 🛠️ Projects
 
