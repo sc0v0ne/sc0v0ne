@@ -46,3 +46,7 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
 
 ### Bagdes
 
+<div style="display: inline_block">
+ <img src="Docker_Essentials_-_ISDN.png" style="width:100px;height:100px;">
+ <img src="Python_101_Data_Science.png" style="width:100px;height:100px;">
+</div>
