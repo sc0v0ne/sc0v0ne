@@ -44,7 +44,7 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
 
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/competition"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/dataset"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/notebook"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/discussion">
 
-### Bagdes
+### Badges
 
 <div style="display: inline_block">
  <img src="Docker_Essentials_-_ISDN.png" style="width:100px;height:100px;">
