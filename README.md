@@ -40,7 +40,9 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
 - **[Design Pattern Abstract Factory](https://github.com/sc0v0ne/design_pattern_abstract_factory)**
 - **[Design Pattern Flyweight](https://github.com/sc0v0ne/design_pattern_flyweight)**
 
-
------
+### Kaggle
 
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/competition"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/dataset"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/notebook"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/discussion">
+
+### Bagdes
+
