@@ -27,12 +27,12 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
 
 ### 🛠️ Projects
 
-- **[Data Science Environment](https://gitlab.com/public-dev-projects-1/data-science-environment)**
-- **[Mobile Rick Morty](https://github.com/sc0v0ne/app_mobile_rick_morty)**
-- **[Mobile Rick Morty Firebase](https://github.com/sc0v0ne/rick_morty_app_firebase)**
-- **[Mobile Blueflix](https://github.com/sc0v0ne/blueflix)  🍿**
 - **[Blueflix Streamlit](https://blueflix.streamlit.app) 🍿**
+- **[Data Science Environment](https://gitlab.com/public-dev-projects-1/data-science-environment)**
 - **[My simple Calculator](https://gitlab.com/sc0v0ne/my-simple-calculator) 👀😎**
+- **[Mobile Rick Morty v1](https://github.com/sc0v0ne/app_mobile_rick_morty)**
+- **[Mobile Rick Morty v2](https://github.com/sc0v0ne/rick_morty_app_firebase)**
+- **[Mobile Blueflix](https://github.com/sc0v0ne/blueflix) 🍿**
 
 ### 📝 Courses & tutorials
 - **[Tutorial: Marp for VS Code](https://dev.to/sc0v0ne/tutorial-marp-for-vs-code-5d6k)**
