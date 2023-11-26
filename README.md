@@ -42,6 +42,23 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
 
 ### Kaggle
 
+#### Datasets
+
+- **[26 Tipical Brazilian Foods](https://www.kaggle.com/datasets/sc0v1n0/26-tipical-brazilian-foods)**
+- **[4 Services Streaming Movies and Tv](https://www.kaggle.com/datasets/sc0v1n0/4-services-streaming-movies-and-tv)**
+- **[Cat, Dog, Turtle and Penguin (🐱|🐕|🐢|🐧)](https://www.kaggle.com/datasets/sc0v1n0/animal-picture-set)**
+
+#### Notebooks
+
+- **[Example Image Classification - Cat vs Turtle](https://www.kaggle.com/datasets/sc0v1n0/animal-picture-set)**
+- **[Example Image classification - Turtle vs Peguim](https://www.kaggle.com/code/sc0v1n0/example-image-classification-turtle-vs-peguim)**
+- **[26 Tipical Brazilian Foods - Classification](https://www.kaggle.com/code/sc0v1n0/26-tipical-brazilian-foods-classification)**
+- **[Object Oriented Programming — Language Python](https://www.kaggle.com/code/sc0v1n0/object-oriented-programming-language-python)**
+- **[K-Means Recommend Movies and Tv Shows Netflix](https://www.kaggle.com/code/sc0v1n0/k-means-recommend-movies-and-tv-shows-netflix)**
+- **[K-Means Recommend Movies and Tv Shows Hulu](https://www.kaggle.com/code/sc0v1n0/k-means-recommend-movies-and-tv-shows-hulu)**
+- **[K-Means Recommend Movies and Tv Shows Amazon Prime](https://www.kaggle.com/code/sc0v1n0/k-means-recommend-movies-and-tv-shows-amazon-prime)**
+- **[K-Means Recommend Movies and Tv Shows Disney+](https://www.kaggle.com/code/sc0v1n0/k-means-recommend-movies-and-tv-shows-disney)**
+
 <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/competition"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/dataset"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/notebook"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/discussion">
 
 ### Badges
