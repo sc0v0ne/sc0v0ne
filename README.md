@@ -59,7 +59,12 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
 - **[K-Means Recommend Movies and Tv Shows Amazon Prime](https://www.kaggle.com/code/sc0v1n0/k-means-recommend-movies-and-tv-shows-amazon-prime)**
 - **[K-Means Recommend Movies and Tv Shows Disney+](https://www.kaggle.com/code/sc0v1n0/k-means-recommend-movies-and-tv-shows-disney)**
 
-<img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/competition"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/dataset"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/notebook"> <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/discussion">
+<div style="display: inline_block">
+   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/competition" style="width:120px;height:160px;">
+   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/dataset" style="width:120px;height:160px;">
+   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/notebook" style="width:120px;height:160px;">
+   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/sc0v1n0/discussion" style="width:120px;height:160px;">
+</div>
 
 ### Badges
 
