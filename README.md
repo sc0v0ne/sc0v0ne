@@ -5,6 +5,7 @@
   <a target="_blank" href="https://gitlab.com/sc0v0n3">	<img alt="Kaggle" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=whitee"/></a>
   <a target="_blank" href="https://github.com/sc0v0ne">	<img alt="Kaggle" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a target="_blank" href="https://dev.to/sc0v0ne">	<img alt="Kaggle" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+  <a target="_blank" href="https://mastodon.social/@sc0v0ne">	<img alt="Mastodon" src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"/></a>
 </div>
 
 
