@@ -16,7 +16,7 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
 </div>
 
 ### Development
-[![](https://skillicons.dev/icons?i=python,bash,vscode,linux,aws,fastapi,javascript,typescript,markdown,scikitlearn,tensorflow)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,bash,vscode,linux,aws,fastapi,javascript,typescript,markdown,scikitlearn,tensorflow,dit,docker)](https://skillicons.dev)
 
 ### Badges
 
