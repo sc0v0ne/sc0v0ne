@@ -8,10 +8,12 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
 - 📖  I'm currently learning TensorFlow and Computer Vision
 - ☕ Curiosity: I love coffee
 
+
+### Follow Me
 <div style="display: inline_block"><br>
-  <a target="_blank" href="https://gitlab.com/public-dev-projects-1">	<img alt="Kaggle" src="https://skillicons.dev/icons?i=gitlab"/></a>
-  <a target="_blank" href="https://github.com/sc0v0ne">	<img alt="Kaggle" src="https://skillicons.dev/icons?i=github"/></a>
-  <a target="_blank" href="https://dev.to/sc0v0ne">	<img alt="Kaggle" src="https://skillicons.dev/icons?i=devto"/></a>
+  <a target="_blank" href="https://gitlab.com/public-dev-projects-1">	<img alt="Gitlab" src="https://skillicons.dev/icons?i=gitlab"/></a>
+  <a target="_blank" href="https://github.com/sc0v0ne">	<img alt="Github" src="https://skillicons.dev/icons?i=github"/></a>
+  <a target="_blank" href="https://dev.to/sc0v0ne">	<img alt="Devto" src="https://skillicons.dev/icons?i=devto"/></a>
   <a target="_blank" href="https://mastodon.social/@sc0v0ne">	<img alt="Mastodon" src="https://skillicons.dev/icons?i=mastodon"/></a>
 </div>
 
@@ -21,6 +23,6 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
 ### Badges
 
 <div style="display: inline_block">
- <img src="Docker_Essentials_-_ISDN.png" style="width:70px;height:70px;">
- <img src="Python_101_Data_Science.png" style="width:70px;height:70px;">
+ <img src="Docker_Essentials_-_ISDN.png" style="width:100px;height:100px;">
+ <img src="Python_101_Data_Science.png" style="width:100px;height:100px;">
 </div>
