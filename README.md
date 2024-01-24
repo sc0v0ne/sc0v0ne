@@ -1,5 +1,6 @@
-# Hey, Nice to meet 😀  
-
+<h1 align="center">
+   Hey, Nice to meet 😀  
+</h1>
 
 ### A little more about me...
 
@@ -27,4 +28,3 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
  <img src="Python_101_Data_Science.png" style="width:130px;height:130px;">
 </div>
 
-[![@sc0v1n0's Holopin board](https://holopin.me/sc0v1n0)](https://holopin.io/@sc0v1n0)
