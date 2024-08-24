@@ -26,6 +26,7 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
 <div style="display: inline_block">
  <img src="Docker_Essentials_-_ISDN.png" style="width:130px;height:130px;">
  <img src="Python_101_Data_Science.png" style="width:130px;height:130px;">
+ <img src="R_Essentials.png" style="width:130px;height:130px;">
 </div>
 
 ### Posts
