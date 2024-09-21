@@ -29,21 +29,7 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
  <img src="R_Essentials.png" style="width:130px;height:130px;">
 </div>
 
-### Posts
 
-| Title | Link |
-|----|----|
-| 5 Tools to Start Working with Python 🤯☢️😱| [5 Tools to Start Working with Python 🤯☢️😱](https://dev.to/sc0v0ne/no-excuses-to-start-working-with-python-cli)|
-
-### Exercises
-
-| Discipline | Link |
-|----|----|
-| Introduction to Artificial Intelligence- PT-BR and English| [Introduction to Artificial Intelligence- PT-BR and English](https://app.studysmarter.de/studyset/21471340?ref=MIwkw7FeDDJyE9x9ZZh6jKz6uqsbTgW6)|
-| Applied Statistics and R language - PT-BR and English| [Applied Statistics and R language- PT-BR and English](https://app.studysmarter.de/studyset/22984443?ref=MIwkw7FeDDJyE9x9ZZh6jKz6uqsbTgW6)|
-| Artificial Neural Networks- PT-BR and English| [Artificial Neural Networks- PT-BR and English](https://app.studysmarter.de/studyset/22984432?ref=MIwkw7FeDDJyE9x9ZZh6jKz6uqsbTgW6)|
-|Programming Language - Python- PT-BR and English| [Programming Language - Python- PT-BR and English](https://app.studysmarter.de/studyset/21471344?ref=MIwkw7FeDDJyE9x9ZZh6jKz6uqsbTgW6)|
-|Meta-heuristics and Optimization- PT-BR and English| [Meta-heuristics and Optimization - PT-BR and English](https://app.studysmarter.de/studyset/22984437?ref=MIwkw7FeDDJyE9x9ZZh6jKz6uqsbTgW6)|
 
 
 
