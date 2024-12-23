@@ -11,12 +11,10 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
 
 
 ### Follow Me
-<div style="display: inline_block"><br>
-  <a target="_blank" href="https://gitlab.com/public-dev-projects-1">	<img alt="Gitlab" src="https://skillicons.dev/icons?i=gitlab"/></a>
-  <a target="_blank" href="https://github.com/sc0v0ne">	<img alt="Github" src="https://skillicons.dev/icons?i=github"/></a>
-  <a target="_blank" href="https://dev.to/sc0v0ne">	<img alt="Devto" src="https://skillicons.dev/icons?i=devto"/></a>
-  <a target="_blank" href="https://mastodon.social/@sc0v0ne">	<img alt="Mastodon" src="https://skillicons.dev/icons?i=mastodon"/></a>
-</div>
+
+- [Kaggle](https://www.kaggle.com/sc0v1n0)
+- [Codeberg](https://codeberg.org/sc0v0ne)
+- [Mastodon](https://mastodon.social/@sc0v0ne)
 
 ### Development
 [![](https://skillicons.dev/icons?i=python,bash,vscode,linux,aws,fastapi,javascript,typescript,markdown,scikitlearn,tensorflow,git,docker)](https://skillicons.dev)
