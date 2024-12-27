@@ -10,25 +10,6 @@ Graduated in Bachelor of Information Systems, in college I had contact with diff
 - ☕ Curiosity: I love coffee
 
 
-### Follow Me
-
-- [Kaggle](https://www.kaggle.com/sc0v1n0)
-- [Codeberg](https://codeberg.org/sc0v0ne)
-- [Mastodon](https://mastodon.social/@sc0v0ne)
-
-### Development
-[![](https://skillicons.dev/icons?i=python,bash,vscode,linux,aws,fastapi,javascript,typescript,markdown,scikitlearn,tensorflow,git,docker)](https://skillicons.dev)
-
-### Badges
-
-<div style="display: inline_block">
- <img src="Docker_Essentials_-_ISDN.png" style="width:130px;height:130px;">
- <img src="Python_101_Data_Science.png" style="width:130px;height:130px;">
- <img src="R_Essentials.png" style="width:130px;height:130px;">
-</div>
-
-
-
 
 
 
