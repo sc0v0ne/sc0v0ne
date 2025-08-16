@@ -4,10 +4,19 @@
 
 ### A little more about me...
 
-Graduated in Bachelor of Information Systems, in college I had contact with different technologies. Along the way, I took the Artificial Intelligence course, where I had my first contact with machine learning and Python. From this it became my passion to learn about this area. Today I work with machine learning and deep learning developing communication software. Along the way, I created a blog where I create some posts about subjects that I am studying and share them to help other users.
+I’m a Machine Learning Developer with over 3 years of experience building, training, and deploying AI models for natural language processing, computer vision, and large language models (LLMs). I hold a Bachelor’s degree in Information Systems and a postgraduate specialization in Artificial Intelligence.
 
-- 📖  I'm currently learning TensorFlow and Computer Vision
-- ☕ Curiosity: I love coffee
+Proficient in Python, JavaScript, PHP, and C, I work with Linux, Docker, and cloud environments like AWS and Google Cloud Platform (GCP). I build scalable and reproducible systems, leveraging CI/CD pipelines, APIs, and cloud-native services.
+
+🧠 Technical Skills: Python, JavaScript, PHP, C, Docker, Linux, CI/CD, REST APIs, AWS, GCP, NLP, Computer Vision, LLMs
+
+🚀 AI Expertise: Neural network development, model fine-tuning, production-grade deployment, MLOps practices
+
+👥 Teamwork & Collaboration: Task organization, cross-functional collaboration, agile methodologies, technical mentoring
+
+🧩 Scalable Solutions: Microservices, continuous integration, infrastructure automation, reproducibility at scale
+
+I enjoy tackling complex problems, staying on top of emerging technologies, and applying AI to drive meaningful outcomes.
 
 
 
